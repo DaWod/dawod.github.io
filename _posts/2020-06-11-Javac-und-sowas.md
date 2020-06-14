@@ -14,8 +14,7 @@ Zusätzlich gibt es noch ein Render-Verzeichnis, dort liegt ebenfalls ein Java-S
 
 Die Kompilierung erfolgt durch
 ```
-javac -d classes -sourcepath src src\javagames\util\FrameRate.
-java src\javagames\render\HelloWorldApp.java
+javac -d classes -sourcepath src src\javagames\util\FrameRate.java src\javagames\render\HelloWorldApp.java
 ```
 
 Der Aufruf der kompilierten Dateien erfolgt dann durch
