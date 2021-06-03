@@ -3,8 +3,7 @@ layout: post
 title:  "Javac und die Packages"
 ---
 
-# Java-Beispiele aus einem Buch zum Laufen bringen
-
+Java Beispiele aus einem Buch zum Laufen bringen...
 
 ```
 packages javagames.util;
